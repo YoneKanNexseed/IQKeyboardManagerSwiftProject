@@ -8,5 +8,6 @@ target 'IQKeyboardManagerSwiftProject' do
   # Pods for IQKeyboardManagerSwiftProject
   pod 'IQKeyboardManagerSwift'
   pod 'FontAwesome.swift'
+  pod 'RevealingSplashView'
 
 end
